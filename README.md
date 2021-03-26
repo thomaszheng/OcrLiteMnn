@@ -8,6 +8,7 @@ ChineseOcr Lite Mnn，超轻量级中文OCR PC Demo，使用MNN推理
 ### 依赖的第三方库下载
 
 下载opencv和MNN
+[下载地址](https://github.com/thomaszheng/OcrLiteMnn/releases/tag/v0.0.1)
 
 * OpenCv动态库：opencv-(版本号)-sharedLib.7z
 * OpenCv静态库：opencv-(版本号)-staticLib.7z
